@@ -1,0 +1,11 @@
+html {
+    font-family: sans-serif;
+    font-size: 80%;
+}
+
+.reservation form {
+    width: 70%;
+    margin: 2% auto;
+    border: 1px solid;
+    border-radius: 7px;
+}
